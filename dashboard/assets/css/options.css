@@ -11,8 +11,10 @@ div#infinity-cpanel-options {
 		-webkit-border-radius: 0;
 		border-radius: 0;
 	}
+ .ui-accordion .ui-accordion-header .ui-icon-folder-open { top: 46%;}
 	div#infinity-cpanel-options .ui-accordion .ui-accordion-header a {
 		font-weight: bold;
+  padding-left: 30px;
 	}
 	div#infinity-cpanel-options .ui-accordion-content {
 		padding: 0 0 5px 10px;
